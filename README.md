@@ -1,8 +1,9 @@
-#  MS-SMM-FA18 Project - "Sports event tweets sentiment analysis and classification"
-## Izolda Fetko, Nishad Tupe , Sushant Athaley - University of Indiana , Bloomington 
-### This repository contains Python Code Files , Datasets , Visualization Images. 
+###  MS-SMM-FA18 Project - "Sports event tweets sentiment analysis and classification"
 
-# Abstract
+#### Izolda Fetko, Nishad Tupe , Sushant Athaley - University of Indiana , Bloomington 
+ 
+
+## Abstract
 Twitter is one of the most vastly used social media platforms that
 allow individuals to voice their opinions on a broad range of topics,
 one of them is sports. Fans frequently use Twitter to show their
