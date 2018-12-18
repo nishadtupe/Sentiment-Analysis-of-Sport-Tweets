@@ -1,4 +1,4 @@
-###  MS-SMM-FA18 Project - "Sports event tweets sentiment analysis and classification"
+###  MS-SMM-FA18 Project - "Sports Social Media Data Analysis and Classification"
 
 #### Izolda Fetko, Nishad Tupe , Sushant Athaley - University of Indiana , Bloomington 
  
